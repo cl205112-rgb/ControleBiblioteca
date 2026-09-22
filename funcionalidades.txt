@@ -4,3 +4,4 @@ FUNCIONALIDADES
 - Visualizar livros
 - Cadastrar clientes
 - Emprestar livros
+- Renovar emprestimo

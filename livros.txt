@@ -25,3 +25,13 @@ LIVROS
 	autor: Edgar Allan Poe,
 	anoPublicacao: 1700
 },
+{
+	nome: O Gato Preto,
+	autor: Edgar Allan Poe,
+	anoPublicacao: 1750
+},
+{
+	nome: O Corvo,
+	autor: Edgar Allan Poe,
+	anoPublicacao: 1780
+},
