@@ -1,0 +1,6 @@
+FUNCIONALIDADES
+
+- Cadastrar livros
+- Visualizar livros
+- Cadastrar clientes
+- Emprestar livros

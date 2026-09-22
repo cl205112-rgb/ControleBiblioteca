@@ -1,0 +1,27 @@
+LIVROS
+
+{
+	nome: A Menina que Roubava Livros,
+	autor: Marcos Zusak,
+	anoPublicacao: 2015
+},
+{
+	nome: 1984,
+	autor: George Orwell,
+	anoPublicacao: 1964
+},
+{
+	nome: Admirável Mundo Novo,
+	autor: Aldous Huxley,
+	anoPublicacao: 1950
+},
+{
+	nome: Notas do Subsolo,
+	autor: Dostoievsky,
+	anoPublicacao: 1870
+},
+{
+	nome: Berenice,
+	autor: Edgar Allan Poe,
+	anoPublicacao: 1700
+},
